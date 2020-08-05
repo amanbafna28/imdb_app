@@ -1,6 +1,11 @@
 # imdb_app
 
-A new Flutter application.
+A flutter application which uses Imdb Api to fetch latest movies and their details details.
+
+~ Readable Code
+~ Repository pattern implemented
+~ Set up environment according to use case - (Prod / Mock)
+
 
 ## Getting Started
 
