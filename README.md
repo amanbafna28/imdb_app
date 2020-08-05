@@ -1,6 +1,6 @@
 # imdb_app
 
-A flutter application which uses Imdb Api to fetch latest movies and their details details.
+A flutter application which uses Imdb Api to fetch latest movies and their details.
 
 ### ~ Readable Code
 ### ~ Repository pattern implemented
